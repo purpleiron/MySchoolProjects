@@ -1,0 +1,9 @@
+Name,Currency,Change
+Jane,AU$,1,0,1,1,0
+Jane,US$,0,0,1,1,0
+Joe,EUR,2,0,0,0,0
+Peter,EUR,0,2,0,1,0
+Peter,US$,0,1,1,1,0
+John,AU$,1,0,1,0,0
+John,EUR,0,1,0,0,0
+John,US$,0,1,1,0,0

@@ -1,0 +1,10 @@
+Jane 30 cents in AU$
+Joe  85 cents in EUR
+Jane 25 cents in AU$
+Jane 15 cents in US$
+Peter 35 cents in US$
+Peter 45 cents in EUR
+Joe  15 cents in EUR
+John 50 cents in AU$
+John 30 cents in US$
+John 20 cents in EUR
